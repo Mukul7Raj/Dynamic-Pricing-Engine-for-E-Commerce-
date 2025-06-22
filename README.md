@@ -1,31 +1,31 @@
 # Dynamic-Pricing-Engine-for-E-Commerce-
 A Python script to simulate, process, and visualize sales data using pandas, numpy, matplotlib, and seaborn.
 
-Features
+**Features**
 
 
 
 
 
-Simulates Sales Data: Generates 1000 records with product IDs, timestamps, prices, quantities, and customer IDs.
+**Simulates Sales Data**: Generates 1000 records with product IDs, timestamps, prices, quantities, and customer IDs.
 
 
 
-Simulates Product Data: Creates 9 products with costs and categories (electronics, apparel, home_goods).
+**Simulates Product Data**: Creates 9 products with costs and categories (electronics, apparel, home_goods).
 
 
 
-Feature Engineering: Adds time-based features, lagged prices/quantities, moving averages, and profit calculations.
+**Feature Engineering**: Adds time-based features, lagged prices/quantities, moving averages, and profit calculations.
 
 
 
-Data Validation: Ensures no negative prices or quantities.
+**Data Validation**: Ensures no negative prices or quantities.
 
 
 
-Visualizations: Plots daily sales trends, profit by category, price vs. quantity, sales by hour, and profit distribution.
+**Visualizations**: Plots daily sales trends, profit by category, price vs. quantity, sales by hour, and profit distribution.
 
-Requirements
+**Requirements**
 
 
 
@@ -35,27 +35,27 @@ Python 3.x
 
 
 
-Libraries: pandas, numpy, matplotlib, seaborn
+**Libraries**: pandas, numpy, matplotlib, seaborn
 
-Setup
-
-
+**Setup**
 
 
 
-Clone the repository:
+
+
+**Clone the repository**:
 
 git clone <repository-url>
 
 
 
-Install dependencies:
+**Install dependencies**:
 
 pip install pandas numpy matplotlib seaborn
 
 
 
-Run the script:
+**Run the script**:
 
 python sales_simulator.py
 
